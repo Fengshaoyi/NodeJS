@@ -1,0 +1,5 @@
+/**
+ * 1. fs.readFileSync() 读取文件内容， 得到的是buffer数据
+ * 2. http请求和响应过程的数据传输
+ * 3. process.stdin 输入流接收的数据，得到的东西是需要toString("utf8")
+ */
